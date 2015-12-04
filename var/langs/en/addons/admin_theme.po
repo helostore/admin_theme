@@ -1,0 +1,49 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::admin_theme"
+msgid "Admin Theme"
+msgstr "Admin Theme"
+
+msgctxt "Addons::description::admin_theme"
+msgid "Brings life to your administration panel with custom themes"
+msgstr "Brings life to your administration panel with custom themes"
+
+msgctxt "SettingsOptions::admin_theme::license_settings"
+msgid "License Settings"
+msgstr "License Settings"
+
+msgctxt "SettingsOptions::admin_theme::email"
+msgid "HELOstore email"
+msgstr "HELOstore email"
+
+msgctxt "SettingsOptions::admin_theme::password"
+msgid "HELOstore password"
+msgstr "HELOstore password"
+
+msgctxt "SettingsOptions::admin_theme::license"
+msgid "License key"
+msgstr "License key"
+
+msgctxt "SettingsOptions::admin_theme::admin_theme.settings"
+msgid "Admin Theme Settings"
+msgstr "Admin Theme Settings"
+
+msgctxt "SettingsOptions::admin_theme::fullwidth"
+msgid "Enable full-width layout in administration panel"
+msgstr "Enable full-width layout in administration panel"
+
+msgctxt "SettingsOptions::admin_theme::theme"
+msgid "Theme for administration panel"
+msgstr "Theme for administration panel"
+
+msgctxt "SettingsVariants::admin_theme::theme::default"
+msgid "Default"
+msgstr "Default"
+
+msgctxt "SettingsVariants::admin_theme::theme::flat"
+msgid "Flat"
+msgstr "Flat"
