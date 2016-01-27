@@ -44,6 +44,10 @@ msgctxt "SettingsVariants::admin_theme::theme::default"
 msgid "Default"
 msgstr "Default"
 
+msgctxt "SettingsVariants::admin_theme::theme::warmsand"
+msgid "Warm Sand"
+msgstr "Warm Sand"
+
 msgctxt "SettingsVariants::admin_theme::theme::flat"
 msgid "Flat"
 msgstr "Flat"

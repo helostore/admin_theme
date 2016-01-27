@@ -43,6 +43,8 @@
                         <variants>
                             <item id="default">
                             </item>
+                            <item id="warmsand">
+                            </item>
                             <item id="flat">
                             </item>
                         </variants>
